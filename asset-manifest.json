@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/BohdanMakovetskyi.github.io/reactPost/static/css/main.bb127f1c.chunk.css",
-    "main.js": "/BohdanMakovetskyi.github.io/reactPost/static/js/main.d38c589b.chunk.js",
-    "main.js.map": "/BohdanMakovetskyi.github.io/reactPost/static/js/main.d38c589b.chunk.js.map",
-    "runtime-main.js": "/BohdanMakovetskyi.github.io/reactPost/static/js/runtime-main.b862424e.js",
-    "runtime-main.js.map": "/BohdanMakovetskyi.github.io/reactPost/static/js/runtime-main.b862424e.js.map",
-    "static/js/2.3dd64d21.chunk.js": "/BohdanMakovetskyi.github.io/reactPost/static/js/2.3dd64d21.chunk.js",
-    "static/js/2.3dd64d21.chunk.js.map": "/BohdanMakovetskyi.github.io/reactPost/static/js/2.3dd64d21.chunk.js.map",
-    "index.html": "/BohdanMakovetskyi.github.io/reactPost/index.html",
-    "precache-manifest.52a4696c15ef008da8cb8df66f354506.js": "/BohdanMakovetskyi.github.io/reactPost/precache-manifest.52a4696c15ef008da8cb8df66f354506.js",
-    "service-worker.js": "/BohdanMakovetskyi.github.io/reactPost/service-worker.js",
-    "static/css/main.bb127f1c.chunk.css.map": "/BohdanMakovetskyi.github.io/reactPost/static/css/main.bb127f1c.chunk.css.map",
-    "static/js/2.3dd64d21.chunk.js.LICENSE.txt": "/BohdanMakovetskyi.github.io/reactPost/static/js/2.3dd64d21.chunk.js.LICENSE.txt"
+    "main.css": "/reactPost/static/css/main.bb127f1c.chunk.css",
+    "main.js": "/reactPost/static/js/main.d38c589b.chunk.js",
+    "main.js.map": "/reactPost/static/js/main.d38c589b.chunk.js.map",
+    "runtime-main.js": "/reactPost/static/js/runtime-main.d14a8528.js",
+    "runtime-main.js.map": "/reactPost/static/js/runtime-main.d14a8528.js.map",
+    "static/js/2.3dd64d21.chunk.js": "/reactPost/static/js/2.3dd64d21.chunk.js",
+    "static/js/2.3dd64d21.chunk.js.map": "/reactPost/static/js/2.3dd64d21.chunk.js.map",
+    "index.html": "/reactPost/index.html",
+    "precache-manifest.0b6ffe26809d8a6ef917437e2c3547de.js": "/reactPost/precache-manifest.0b6ffe26809d8a6ef917437e2c3547de.js",
+    "service-worker.js": "/reactPost/service-worker.js",
+    "static/css/main.bb127f1c.chunk.css.map": "/reactPost/static/css/main.bb127f1c.chunk.css.map",
+    "static/js/2.3dd64d21.chunk.js.LICENSE.txt": "/reactPost/static/js/2.3dd64d21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b862424e.js",
+    "static/js/runtime-main.d14a8528.js",
     "static/js/2.3dd64d21.chunk.js",
     "static/css/main.bb127f1c.chunk.css",
     "static/js/main.d38c589b.chunk.js"
