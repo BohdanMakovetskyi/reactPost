@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BohdanMakovetskyi.github.io/reactPost/static/css/main.bb127f1c.chunk.css",
+    "main.js": "/BohdanMakovetskyi.github.io/reactPost/static/js/main.d38c589b.chunk.js",
+    "main.js.map": "/BohdanMakovetskyi.github.io/reactPost/static/js/main.d38c589b.chunk.js.map",
+    "runtime-main.js": "/BohdanMakovetskyi.github.io/reactPost/static/js/runtime-main.b862424e.js",
+    "runtime-main.js.map": "/BohdanMakovetskyi.github.io/reactPost/static/js/runtime-main.b862424e.js.map",
+    "static/js/2.3dd64d21.chunk.js": "/BohdanMakovetskyi.github.io/reactPost/static/js/2.3dd64d21.chunk.js",
+    "static/js/2.3dd64d21.chunk.js.map": "/BohdanMakovetskyi.github.io/reactPost/static/js/2.3dd64d21.chunk.js.map",
+    "index.html": "/BohdanMakovetskyi.github.io/reactPost/index.html",
+    "precache-manifest.fff4bbaab9548e4133ab0ee831ae8d47.js": "/BohdanMakovetskyi.github.io/reactPost/precache-manifest.fff4bbaab9548e4133ab0ee831ae8d47.js",
+    "service-worker.js": "/BohdanMakovetskyi.github.io/reactPost/service-worker.js",
+    "static/css/main.bb127f1c.chunk.css.map": "/BohdanMakovetskyi.github.io/reactPost/static/css/main.bb127f1c.chunk.css.map",
+    "static/js/2.3dd64d21.chunk.js.LICENSE.txt": "/BohdanMakovetskyi.github.io/reactPost/static/js/2.3dd64d21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b862424e.js",
+    "static/js/2.3dd64d21.chunk.js",
+    "static/css/main.bb127f1c.chunk.css",
+    "static/js/main.d38c589b.chunk.js"
+  ]
+}
